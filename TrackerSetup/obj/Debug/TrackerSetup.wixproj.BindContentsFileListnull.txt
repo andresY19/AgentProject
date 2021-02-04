@@ -1,0 +1,2 @@
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\monitortracker\bin\Debug\MonitorTrackerForm.exe
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\monitortracker\bin\Debug\MonitorTrackerForm.exe.config

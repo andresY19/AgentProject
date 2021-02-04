@@ -1,0 +1,7 @@
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\TrackerSetup\bin\Release\cab1.cab
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\TrackerSetup\bin\Release\TrackerSetup.msi
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\TrackerSetup\bin\Release\TrackerSetup.wixpdb
+obj\Release\Product.wixobj
+obj\Release\TrackerSetup.wixproj.BindContentsFileListnull.txt
+obj\Release\TrackerSetup.wixproj.BindOutputsFileListnull.txt
+obj\Release\TrackerSetup.wixproj.BindBuiltOutputsFileListnull.txt

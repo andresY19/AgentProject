@@ -1,0 +1,3 @@
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\TrackerSetup\bin\Release\cab1.cab
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\TrackerSetup\bin\Release\TrackerSetup.msi
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\TrackerSetup\bin\Release\TrackerSetup.wixpdb

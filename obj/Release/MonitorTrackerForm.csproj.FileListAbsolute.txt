@@ -1,0 +1,17 @@
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\bin\Release\MonitorTrackerForm.exe.config
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\bin\Release\MonitorTrackerForm.exe
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\bin\Release\MonitorTrackerForm.pdb
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.Track.resources
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.Properties.Resources.resources
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.csproj.GenerateResource.cache
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.csproj.CoreCompileInputs.cache
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.exe
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.pdb
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.csproj.ResolveComReference.cache
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\bin\Release\Newtonsoft.Json.dll
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\bin\Release\System.Net.Http.Formatting.dll
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\bin\Release\Newtonsoft.Json.xml
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\bin\Release\System.Net.Http.Formatting.xml
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.csprojAssemblyReference.cache
+D:\Proyectos\Personales\Andres Villa Proyectos\ADA\Monitor\MonitorTrackerForm\obj\Release\MonitorTrackerForm.csproj.CopyComplete
